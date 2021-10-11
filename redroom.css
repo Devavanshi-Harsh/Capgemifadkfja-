@@ -1,0 +1,33 @@
+
+
+body{
+   
+    background-image: url("/Images/kevin-turcios-f8ecaA5pkh4-unsplash.jpg");
+    background-size: cover;
+    width: 800px;
+    margin: 0 auto;
+    color: darkred;
+
+}
+
+header a {
+
+    font-size: 50px;
+    text-decoration: none;
+    text-align: center;
+}
+
+label {
+    display: -ms-inline-grid;
+    /* background-color: green; */
+
+
+}
+input {
+    background-color: black;
+    margin: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 10px;
+    
+    /* border-radius: 25%; */
